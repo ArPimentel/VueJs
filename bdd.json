@@ -1,0 +1,39 @@
+{
+  "listes": [
+    {
+      "id": 1,
+      "nom": "Mes TODO"
+    }
+  ],
+  "todos": [
+    {
+      "id": 1,
+      "nom": "cirer les pompes",
+      "description": "faire des compliments au boss",
+      "dateFin": "2019-10-16T22:00:00.000+0000",
+      "termine": false,
+      "liste_id": 1
+    },
+    {
+      "nom": "Fabrice",
+      "description": "el boss",
+      "dateFin": "21-21-21",
+      "termine": true,
+      "id": 10
+    },
+    {
+      "nom": "Fabrice",
+      "description": "el boss",
+      "dateFin": "21-21-21",
+      "termine": false,
+      "id": 11
+    },
+    {
+      "nom": "aaaaa",
+      "description": "aaaaa",
+      "dateFin": "aaaa",
+      "termine": false,
+      "id": 12
+    }
+  ]
+}
